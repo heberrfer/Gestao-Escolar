@@ -1,0 +1,6 @@
+{
+  "name": "Scolarise - Gestão Escolar",
+  "description": "Sistema de gestão, controle rígido de frequência, evasão, ocupação docente, manutenção e investimentos com inteligência analítica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
